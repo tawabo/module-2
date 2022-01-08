@@ -1,0 +1,238 @@
+   50  /usr/bin/python3 /Users/abdulhamidi/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   51  /usr/bin/python3 /Users/abdulhamidi/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+   52  /usr/bin/python3 /Users/abdulhamidi/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   53  conda init zsh
+   54  conda --version
+   55  conda update conda
+   56  pwd
+   57  ls
+   58  cd Desktop
+   59  pwd
+   60  ls
+   61  mkdir Fintech-Workspace
+   62  ls
+   63  cd Fintech-Workspace
+   64  ls
+   65  cd ..
+   66  cd ~
+   67  ls
+   68  cd Desktop
+   69  ls
+   70  cd Fintech-Workspace
+   71  ls
+   72  ls
+   73  cd Python_Project
+   74  ls
+   75  conda activate dev
+   76  code .
+   77  code .
+   78  python --version
+   79  code .
+   80  python hello_python.py
+   81  conda deactivate
+   82  code .
+   83  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+   84  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+   85  /usr/bin/python3
+   86  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   87  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   88  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   89  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   90  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   91  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   92  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   93  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   94  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   95  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   96  /usr/bin/python3
+   97  /usr/bin/python3 "/Users/abdulhamidi/Downloads/Starter_Code 2/loan_analyzer.py"
+   98  /usr/bin/python3
+   99  /usr/bin/python3
+  100  /usr/bin/python3
+  101  /usr/bin/python3
+  102  pip-v
+  103  conda activate dev
+  104  pip-V
+  105  pip -V
+  106  pip freeze
+  107  pip install fire
+  108  pip install questionary
+  109  from pathlib import Path
+  110  python app.py
+  111  python app.py
+  112  conda dev deactivate
+  113  conda deactivate
+  114  /usr/bin/python3
+  115  /usr/bin/python3
+  116  /usr/bin/python3
+  117  /usr/bin/python3
+  118  /usr/bin/python3
+  119  atmdev
+  120  `atmdev`
+  121  /usr/bin/python3
+  122  /usr/bin/python3
+  123  pip install fire
+  124  conda activate
+  125  conda atmdev
+  126  pwd
+  127  ls
+  128  cd
+  129  cd desktop
+  130  ls
+  131  mkdir test_folder
+  132  ls
+  133  cd test_folder
+  134  touch fintech-file.txt
+  135  ls
+  136  rm fintech-file.txt
+  137  ls
+  138  cd
+  139  ls
+  140  dektop
+  141  cd desktop
+  142  ls
+  143  test_folder
+  144  cd test_folder
+  145  rm -r
+  146  rm-r
+  147  ls
+  148  cd
+  149  pip install fire
+  150  fire
+  151  import fire
+  152  /usr/bin/python3 Untitled-1
+  153  pip install fire
+  154  conda install fire -c onda-forge
+  155  python setup.py install
+  156  import fire
+  157  /usr/bin/python3 "/Users/abdulhamidi/Downloads/python-fire-master 2/setup.py"
+  158  pip install fire
+  159  /usr/bin/python3 /Users/abdulhamidi/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  160  /usr/bin/python3 /Users/abdulhamidi/Desktop/Fintech-Workspace/fire/python-fire/app.py
+  161  pip install fire
+  162  conda activated
+  163  conda activate
+  164  yes
+  165  conda dev activate
+  166  conda deactivate
+  167  conda activate
+  168  python cli.py
+  169  cd
+  170  cd python-fire
+  171  ls
+  172  cd desktop
+  173  ls
+  174  cd fintech-workspace
+  175  ls
+  176  python cli.py
+  177  python cly.py --pants=True
+  178  python cli.py
+  179  python cli.py--pants=True
+  180  python cli.py--pants=True
+  181  ls
+  182  cd fire
+  183  ls
+  184  cd python-fire
+  185  ls
+  186  python app.py
+  187  pip install questionary
+  188  cd
+  189  pip install questionary
+  190  /usr/bin/python3
+  191  pip install questionary
+  192  import questionary
+  193  clear
+  194  import questionary
+  195  which python
+  196  conda env list
+  197  conda activate
+  198  conda activate dev
+  199  pip install questionary
+  200  clear
+  201  import questionary
+  202  import fire 
+  203  /Users/abdulhamidi/opt/anaconda3/bin/python /Users/abdulhamidi/Desktop/Fintech-Workspace/test.py
+  204  import questionary
+  205  clear
+  206  import fire 
+  207  clear
+  208  import fire 
+  209  import questionary 
+  210  import fire 
+  211  clear
+  212  import fire 
+  213  conda deactivate
+  214  import fire 
+  215  import questionary 
+  216  vim~/.zshrc
+  217  ~/.bash_profile
+  218  conda create -n atmdev python=3.7 anaconda
+  219  conda dev activate
+  220  conda activate dev
+  221  conda deactivate
+  222  source /Users/abdulhamidi/opt/anaconda3/bin/activate
+  223  conda activate base
+  224  /Users/abdulhamidi/opt/anaconda3/bin/python
+  225  source /Users/abdulhamidi/opt/anaconda3/bin/activate
+  226  conda activate base
+  227  source /Users/abdulhamidi/opt/anaconda3/bin/activate
+  228  conda activate base
+  229  /Users/abdulhamidi/opt/anaconda3/bin/python
+  230  source /Users/abdulhamidi/opt/anaconda3/bin/activate
+  231  conda activate base
+  232  /Users/abdulhamidi/opt/anaconda3/bin/python
+  233  ls
+  234  cd
+  235  ls
+  236  cd desktop
+  237  ls
+  238  cd mod2
+  239  git clone git@github.com:tawabo/module-2.git
+  240  ls
+  241  cd module-2
+  242  git status
+  243  git add -A
+  244  git commit -m"Added starter folder"
+  245  git push
+  246  git status
+  247  git add -A
+  248  git commit -m"Added saved Function"
+  249  git push
+  250  conda activate
+  251  conda activate dev
+  252  python app.py
+  253  cd desktop
+  254  ls
+  255  cd loan_qualifier_app
+  256  python app.py
+  257  conda deactivate
+  258  cd
+  259  ls 
+  260  destop
+  261  cd desktop
+  262  python helloworld.py
+  263  ls
+  264  cd w3
+  265  python helloworld.py
+  266  python helloworld.py
+  267  python sum.py
+  268  python sum.py
+  269  ls
+  270  ls -la
+  271  pwd
+  272  cd /\<directory>
+  273  cd ../
+  274  ../
+  275  cs
+  276  cd
+  277  mkdir
+  278  conda activate dev
+  279  cd desktop
+  280  cd mod2
+  281  cd module-2
+  282  git status
+  283  git add
+  284  git add -A
+  285  git commit-m
+  286  git commit -m "final modification made to app.py"
+  287  git push
